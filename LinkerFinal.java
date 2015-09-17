@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @email HPS251@nyu.edu
  *
  */
-public class Linker {
+public class LinkerFinal {
 	//Used in firstPass to define symbol values
 	private static int relocationConstant;
 	//Contains symbol + value of symbol
